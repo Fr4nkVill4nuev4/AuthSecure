@@ -25,4 +25,20 @@ Para este caso la opcion optima es HashMap ya que utiliza una funcion de has par
 diecto donde se almacena el valor del usuario en formato "clave" : "Valor" ofrece el mejor rendimiento para
 operaciones básicas de inserción, búsqueda y eliminación
 
+Historial de acciones:
+
+20250827 - Frankling Villanueva 
+
+Main.java
+AuthService.java
+Metodo Login
+Metodo Registrar
+
+20250236 - Jonathan Rivera.
+
+AuthService.java
+Metodo Autenticacion
+Metodo Eliminar
+
+Usuario.java
 
